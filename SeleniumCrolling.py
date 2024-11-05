@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # ChromeDriver 경로 설정
-chrome_driver_path = r"C:\Users\Algor\Desktop\chromedriver.exe"
+chrome_driver_path = r"C:\Users\SS\Downloads\chromedriver.exe"
 
 
 def get_problem_examples(problem_id):
